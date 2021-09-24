@@ -1,7 +1,9 @@
-# hello-world
+# 👋 Hello, my name is Roselyn!
 
-hi folks!
+🏫 I am a Systems Design Engineering student @ UWaterloo.
 
-i enjoy typing at high speeds, sometimes to code, sometimes not :]
+💭 These days, I've been building websites and learning Javascript frameworks such as React.js and Vue.js!
 
-i also like playing instruments and learning languages!
+♥️ In my spare time, I also enjoy playing instruments, learning languages, and writing fiction stories!
+
+🧷 You can reach me at roselyn.huynh@uwaterloo.ca ✨
