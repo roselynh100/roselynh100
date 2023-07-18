@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-roselynh100.vercel.app/api?username=roselynh100&show_icons=true&hide=stars&show=reviews&hide_rank=true&custom_title=Roselyn's%20Github%20Stats&theme=rose_pine" />
+  <img height=200 align="center" src="https://github-readme-stats-roselynh100.vercel.app/api?username=roselynh100&show_icons=true&hide=stars&show=reviews&hide_rank=true&custom_title=Roselyn's%20GitHub%20Stats&theme=rose_pine" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-roselynh100.vercel.app/api/top-langs/?username=roselynh100&langs_count=5&hide=java,c%2B%2B,ruby&layout=donut&theme=rose_pine" />
