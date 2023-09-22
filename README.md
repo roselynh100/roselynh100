@@ -7,7 +7,7 @@
   display: She/Her;
   position: Systems Design Engineering;
   background: University of Waterloo;
-  z-index: 2nd year;
+  z-index: 3nd year;
 }
 ```
 <br />
