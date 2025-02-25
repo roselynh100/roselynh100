@@ -2,7 +2,7 @@
 -
 <img align='right' style="margin-left: 200px" src="https://media0.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif?cid=6c09b952585rrt0lmxbbbtez8ftpbhr3jfu3yur1i8930tad&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="275" />
 
-```
+```css
 #roselyn {
   display: She/Her;
   position: Systems Design Engineering;
