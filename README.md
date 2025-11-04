@@ -16,4 +16,4 @@
 
 ♥️ In my spare time, I enjoy playing instruments, learning languages, and writing fiction stories!
 
-🧷 You can reach me at roselyn.huynh@uwaterloo.ca ✨
+🧷 You can reach me at roselynhuynh.tech@gmail.com ✨
