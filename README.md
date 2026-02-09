@@ -17,3 +17,4 @@
 ♥️ In my spare time, I enjoy playing instruments, learning languages, and writing fiction stories!
 
 🧷 You can reach me at roselynhuynh.tech@gmail.com ✨
+![](https://komarev.com/ghpvc/?username=roselynh100&color=7E84D6&style=pixel&label=visitors)
